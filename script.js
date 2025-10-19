@@ -12,7 +12,7 @@ const questions = [
     },
     {
         question: "Чий цей двигун?",
-        image: "https://otoba.ru/dvigatel/volvo/img/d5244t15/dvigatel-volvo-d5244t15-foto.jpg", // Фото KAZKA (Саша Зарицька)
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfpEfM8573vYnm0qgsE8oteqzJwuG-3wI4DQ&s", // Фото KAZKA (Саша Зарицька)
         answers: [
             { text: "Mazeratti", correct: false },
             { text: "Bugati", correct: false },
